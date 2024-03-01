@@ -1,4 +1,4 @@
-pip~=24.0
-pillow~=10.2.0
-Django~=5.0.2
-agora_token_builder~=1.0.0
+pip
+pillow
+Django
+agora_token_builder
